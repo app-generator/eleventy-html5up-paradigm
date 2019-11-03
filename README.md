@@ -31,6 +31,8 @@ $ yarn dev # start in development mode
 $ # app is running on http://localhost:4000
 ```
 
+<br />
+
 ## Want more? Go PRO!
 
 <br />
