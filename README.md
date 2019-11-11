@@ -77,7 +77,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 ## Support
 
-- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and [Github](./issues/)
+- Free support via eMail < [support @ appseed.us](https://appseed.us/support) > and [Github](https://github.com/app-generator/eleventy-html5up-paradigm/issues)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup) for paid plans and commercial products.
 
 <br />
