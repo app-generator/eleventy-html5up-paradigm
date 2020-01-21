@@ -1,6 +1,6 @@
 # [Static Site Eleventy Paradigm](https://appseed.us/static-site/eleventy-html5up-paradigm)
 
-Static Site prototyped on top of [Eleventy (11ty)](https://www.11ty.io/) SSG and Paradigm Design. Boilerplate features:
+Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Paradigm Design. Boilerplate features:
 
 - Design: HTML5up Ethereal
 - SSG: [11ty](https://www.11ty.io/)
