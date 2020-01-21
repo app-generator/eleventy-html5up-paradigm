@@ -48,15 +48,7 @@ $ yarn build
 
 ## Project Structure
 
-The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. The most important files / directories are listed bellow:
-
-- [.eleventy.js](https://github.com/app-generator/eleventy-html5up-paradigm/blob/master/.eleventy.js)
-- [package.json](https://github.com/app-generator/eleventy-html5up-paradigm/blob/master/package.json)
-- [src /](https://github.com/app-generator/eleventy-html5up-paradigm/tree/master/src)
-- [src / _includes](https://github.com/app-generator/eleventy-html5up-paradigm/tree/master/src/_includes)
-- [src / assets](https://github.com/app-generator/eleventy-html5up-paradigm/tree/master/src/assets)
-- [src / data / data.json](https://github.com/app-generator/eleventy-html5up-paradigm/blob/master/src/_data/data.json)
-- [src / index.njk](https://github.com/app-generator/eleventy-html5up-paradigm/blob/master/src/index.njk)
+The boilerplate code is built with a modular structure that follows the recommended pattern used by many open-source projects. 
 
 <br />
 
