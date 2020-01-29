@@ -1,6 +1,8 @@
 # [Static Site Eleventy Paradigm](https://appseed.us/static-site/eleventy-html5up-paradigm)
 
-Static Site prototyped on top of [Eleventy](https://www.11ty.io/) SSG and Paradigm Design. Boilerplate features:
+**Open-Source Static Site** coded in **[Eleventy](https://www.11ty.io/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+
+### Static Site Features:
 
 - Design: HTML5up Ethereal
 - SSG: [11ty](https://www.11ty.io/)
@@ -84,10 +86,10 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 ## License & Credits
 
-- [CCY 3.0](https://html5up.net/license) - inherited from Html5Up
+- [CCY 3.0](https://html5up.net/license) - Inherited from Html5Up
 - [Deventy](https://github.com/ianrose/deventy) - the initial starter 
 
 <br />
 
 ---
-[Static Site Eleventy Paradigm](https://appseed.us/static-site/eleventy-html5up-paradigm) - provided by **AppSeed**
+[Static Site Eleventy Paradigm](https://appseed.us/static-site/eleventy-html5up-paradigm) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
