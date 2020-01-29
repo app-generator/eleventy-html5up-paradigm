@@ -91,5 +91,20 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 <br />
 
+## What is [Eleventy](https://www.11ty.dev/) (11ty)
+
+**Eleventy** is a simpler [static sites](https://appseed.us/static-site) generator created to be a JavaScript alternative to Jekyll.
+It’s `zero-config` by default but has flexible configuration options. Eleventy **works with your project’s existing directory structure**.
+
+Eleventy uses **independent template engines**. We don’t want to hold your content hostage. If you decide to use something else later, having your content decoupled in this way will make migration easier. Eleventy works with multiple template languages (HTML, Markdown, Javascript, Liquid, Nunjunks ..)
+
+### Eleventy resources
+
+- [Eleventy 11ty](https://www.11ty.dev/) - the official site
+- [Eleventy Docs](https://www.11ty.dev/docs/) - the documentation
+- [Eleventy](https://github.com/11ty/eleventy/) - the official repository (Github)
+
+<br />
+
 ---
 [Static Site Eleventy Paradigm](https://appseed.us/static-site/eleventy-html5up-paradigm) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
