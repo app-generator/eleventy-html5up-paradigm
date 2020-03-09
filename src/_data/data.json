@@ -3,10 +3,10 @@
     "email"          : "support@appseed.us",
     "design"         : "Paradigm by Html5 UP",
 
-    "app_title"      : "Eleventy Paradigm",
+    "app_title"      : "Static Site Eleventy Paradigm",
 
-    "seo_title"      : "Eleventy Paradigm - Built with Automation Tools | AppSeed App Generator",
-    "seo_desc"       : "Static Site prototyped in Eleventy SSG on top of Paradigm Html5 Up design.",
+    "seo_title"      : "Static Site Eleventy - HTML5up Paradigm | AppSeed",
+    "seo_desc"       : "Static Site built with Eleventy (11ty) SSG on top of HTML5up Paradigm design. Tooling: Webpack, Babel, LightServer and CSS processors.",
 
     "product"        : "https://appseed.us/static-site/eleventy-html5up-paradigm", 
     "github"         : "https://github.com/app-generator/eleventy-html5up-paradigm",
